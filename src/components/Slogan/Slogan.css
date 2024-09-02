@@ -1,0 +1,40 @@
+.hero {
+    background-image: url('https://cdn0-production-images-kly.akamaized.net/YdkZvNUicZA2SfFXG1cDLRXj-jQ=/680x0/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4339182/original/014361900_1677483304-45433143_1187729034737398_1783100714256433152_n.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    height: 70px;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    background-color: #003660;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #3b7acd;
+  }
+  
